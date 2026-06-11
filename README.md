@@ -26,6 +26,14 @@ pip install -r requirements.txt
 export HF_TOKEN=xxx
 ```
 
+# NeuroNest AI Security Review Tool
+[![Awesome](https://neuronest.cc/)
+
+NeuroNest is an AI security review tool built to help developers identify risks, improve code safety, and strengthen software workflows. It supports security analysis, debugging, testing, DevOps automation, technical research, and AI-assisted coding, making it useful for teams that want safer and more efficient software development.
+
+
+>contribition welcome -[open PR](https://github.com/NETGVai/NeuroNest)
+
 ## Model usage and memory footprint
 Here are some examples to load the model and generate code, with the memory footprint of the largest model, `StarCoder2-15B`. Ensure you've installed `transformers` from source (it should be the case if you used `requirements.txt`)
 ```bash
