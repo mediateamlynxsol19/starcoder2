@@ -27,7 +27,7 @@ export HF_TOKEN=xxx
 ```
 
 # NeuroNest AI Security Review Tool
-[![Awesome](https://neuronest.cc/)
+(https://neuronest.cc/)
 
 NeuroNest is an AI security review tool built to help developers identify risks, improve code safety, and strengthen software workflows. It supports security analysis, debugging, testing, DevOps automation, technical research, and AI-assisted coding, making it useful for teams that want safer and more efficient software development.
 
